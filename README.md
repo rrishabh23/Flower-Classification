@@ -5,7 +5,7 @@ Dataset :
 https://www.kaggle.com/datasets/thanatoz/flower-classification-dataset
 
 <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-datasets-images/878892/1496384/8a79206d4b17057b0f88ce79798130b9/dataset-cover.jpg?t=2020-09-18-06-18-51" />
+  <img src="https://github.com/rrishabh23/Flower-Classification/blob/main/dataset-cover.jpg" />
 </p>
 <br /> 
 
